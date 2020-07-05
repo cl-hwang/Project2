@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19D76" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Clubs" representedClassName="Clubs" syncable="YES" codeGenerationType="class">
+        <attribute name="c_apply" optional="YES" attributeType="String"/>
+        <attribute name="c_clubField" optional="YES" attributeType="String"/>
+        <attribute name="c_clubName" optional="YES" attributeType="String"/>
+        <attribute name="c_description" optional="YES" attributeType="String"/>
+        <attribute name="c_dueDate" optional="YES" attributeType="String"/>
+        <attribute name="c_id" optional="YES" attributeType="String"/>
+        <attribute name="c_name" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Clubs" positionX="-63" positionY="-18" width="128" height="148"/>
+    </elements>
+</model>
